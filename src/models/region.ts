@@ -10,6 +10,7 @@ export enum Region {
   Shiny = 'shiny',
   StrawberryShiny = 'strawberryShiny',
   VanillaShiny = 'vanillaShiny',
+  Unknown = 'Unknown',
 }
 
 export const binRegionMap = new Map([
