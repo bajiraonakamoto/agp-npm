@@ -30,6 +30,19 @@ export function ParseGeneBinGroupFromGenHex(genHex: string) {
 
     const cls = hexBin.slice(0, 5)
     const reservation = hexBin.slice(5, 50)
+    // Normal axie 00000
+    // Japan axie  00000
+    // Summer axie 00000
+    // Shiny axie  00000
+    // Xmas2019    00000
+    // Xmas2018    00000
+    // Agamogenesis axie 00000
+
+    // Mystic axie 00001
+    // Origin axie 00001
+    // MEO I axie  00010
+    // MEO II axie 00011
+
     const contribution = hexBin.slice(50, 55)
     const body = hexBin.slice(55, 92)
     const primaryColor = hexBin.slice(92, 110)
