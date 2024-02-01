@@ -19,8 +19,8 @@ export interface GeneBin {
   reservation: string;
   contribution: string;
   body: BodyGeneBin;
-  primaryColor: string;
-  secondaryColor: string;
+  primaryColor: Heritage;
+  secondaryColor: Heritage;
   eyes: string;
   ears: string;
   horn: string;
@@ -31,35 +31,50 @@ export interface GeneBin {
 
 export interface BodyGeneBin {
   heritability: string;
-  skin : string;
-  bodyShape: {
-    d: string,
-    r1: string,
-    r2: string
-  };
+  skin: string;
+  bodyShape: Heritage;
+  primaryColor: Heritage;
 }
 
-export function ParseGeneBinGroupFromGenHex(genHex: string) {
+export interface Heritage {
+  d: string,
+  r1: string,
+  r2: string
+}
+
+export function ParseGeneBinFromGenHex(genHex: string): GeneBin {
   const baseBinGeneBin = ParseBaseGeneBin(genHex);
   const body = ParseBodyGeneBin(baseBinGeneBin.body);
+  const primaryColor = ParseColorGeneBin(baseBinGeneBin.primaryColor);
+  const secondaryColor = ParseColorGeneBin(baseBinGeneBin.secondaryColor);
   return {
     cls: baseBinGeneBin.cls,
     reservation: baseBinGeneBin.reservation,
     contribution: baseBinGeneBin.contribution,
-    body
+    body,
+    primaryColor,
+    secondaryColor
   } as GeneBin;
 }
 
-function ParseBodyGeneBin(bodyBaseBin: string) {
+function ParseBodyGeneBin(bodyBaseBin: string): BodyGeneBin {
   return {
     heritability: bodyBaseBin.slice(0, 1),
-    skin : bodyBaseBin.slice(1, 10),
+    skin: bodyBaseBin.slice(1, 10),
     bodyShape: {
       d: bodyBaseBin.slice(10, 19),
       r1: bodyBaseBin.slice(19, 28),
-      r2: bodyBaseBin.slice(28, 37),
+      r2: bodyBaseBin.slice(28, 37)
     }
   } as BodyGeneBin;
+}
+
+function ParseColorGeneBin(primaryColorBaseBin: string): Heritage {
+  return {
+    d: primaryColorBaseBin.slice(0, 6),
+    r1: primaryColorBaseBin.slice(6, 12),
+    r2: primaryColorBaseBin.slice(12, 18)
+  } as Heritage;
 }
 
 
