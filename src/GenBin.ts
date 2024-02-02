@@ -1,3 +1,5 @@
+import { PartType } from './models/part';
+
 /** Collectively stores the binary representation of an Axie gene into their respective groups. */
 export interface BaseGeneBin {
   cls: string;
@@ -21,12 +23,21 @@ export interface GeneBin {
   body: BodyGeneBin;
   primaryColor: Heritage;
   secondaryColor: Heritage;
-  eyes: string;
-  ears: string;
-  horn: string;
-  mouth: string;
-  back: string;
-  tail: string;
+  eyes: PartGeneBin;
+  ears: PartGeneBin;
+  horn: PartGeneBin;
+  mouth: PartGeneBin;
+  back: PartGeneBin;
+  tail: PartGeneBin;
+}
+
+export interface PartGeneBin {
+  reservation: string;
+  stage: string;
+  heritability: string;
+  skin: string;
+  type: PartType;
+  heritage: Heritage;
 }
 
 export interface BodyGeneBin {
@@ -37,9 +48,9 @@ export interface BodyGeneBin {
 }
 
 export interface Heritage {
-  d: string,
-  r1: string,
-  r2: string
+  d: any,
+  r1: any,
+  r2: any
 }
 
 export function ParseGeneBinFromGenHex(genHex: string): GeneBin {
@@ -47,13 +58,24 @@ export function ParseGeneBinFromGenHex(genHex: string): GeneBin {
   const body = ParseBodyGeneBin(baseBinGeneBin.body);
   const primaryColor = ParseColorGeneBin(baseBinGeneBin.primaryColor);
   const secondaryColor = ParseColorGeneBin(baseBinGeneBin.secondaryColor);
+  const mouth = ParsePartGeneBin(baseBinGeneBin.mouth, PartType.Mouth);
+  const tail = ParsePartGeneBin(baseBinGeneBin.tail, PartType.Tail);
+  const horn = ParsePartGeneBin(baseBinGeneBin.horn, PartType.Horn);
+  const eyes = ParsePartGeneBin(baseBinGeneBin.eyes, PartType.Eyes);
+  const ears = ParsePartGeneBin(baseBinGeneBin.ears, PartType.Ears);
+
   return {
     cls: baseBinGeneBin.cls,
     reservation: baseBinGeneBin.reservation,
     contribution: baseBinGeneBin.contribution,
     body,
     primaryColor,
-    secondaryColor
+    secondaryColor,
+    mouth,
+    tail,
+    horn,
+    eyes,
+    ears
   } as GeneBin;
 }
 
@@ -67,6 +89,29 @@ function ParseBodyGeneBin(bodyBaseBin: string): BodyGeneBin {
       r2: bodyBaseBin.slice(28, 37)
     }
   } as BodyGeneBin;
+}
+
+function ParsePartGeneBin(partBaseBin: string, partType: PartType): PartGeneBin {
+  return {
+    reservation: partBaseBin.slice(0, 12),
+    stage: partBaseBin.slice(12, 15),
+    heritability: partBaseBin.slice(15, 16),
+    skin: partBaseBin.slice(16, 25),
+    heritage: {
+      d: {
+        cls: partBaseBin.slice(25, 30),
+        part: partBaseBin.slice(30, 38)
+      },
+      r1: {
+        cls: partBaseBin.slice(38, 43),
+        part: partBaseBin.slice(43, 51)
+      },
+      r2: {
+        cls: partBaseBin.slice(51, 56),
+        part: partBaseBin.slice(56, 64)
+      }
+    }
+  } as PartGeneBin;
 }
 
 function ParseColorGeneBin(primaryColorBaseBin: string): Heritage {
