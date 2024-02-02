@@ -36,7 +36,6 @@ export interface PartGeneBin {
   stage: string;
   heritability: string;
   skin: string;
-  type: PartType;
   heritage: Heritage;
 }
 
@@ -58,11 +57,11 @@ export function ParseGeneBinFromGenHex(genHex: string): GeneBin {
   const body = ParseBodyGeneBin(baseBinGeneBin.body);
   const primaryColor = ParseColorGeneBin(baseBinGeneBin.primaryColor);
   const secondaryColor = ParseColorGeneBin(baseBinGeneBin.secondaryColor);
-  const mouth = ParsePartGeneBin(baseBinGeneBin.mouth, PartType.Mouth);
-  const tail = ParsePartGeneBin(baseBinGeneBin.tail, PartType.Tail);
-  const horn = ParsePartGeneBin(baseBinGeneBin.horn, PartType.Horn);
-  const eyes = ParsePartGeneBin(baseBinGeneBin.eyes, PartType.Eyes);
-  const ears = ParsePartGeneBin(baseBinGeneBin.ears, PartType.Ears);
+  const mouth = ParsePartGeneBin(baseBinGeneBin.mouth);
+  const tail = ParsePartGeneBin(baseBinGeneBin.tail);
+  const horn = ParsePartGeneBin(baseBinGeneBin.horn);
+  const eyes = ParsePartGeneBin(baseBinGeneBin.eyes);
+  const ears = ParsePartGeneBin(baseBinGeneBin.ears);
 
   return {
     cls: baseBinGeneBin.cls,
@@ -91,7 +90,7 @@ function ParseBodyGeneBin(bodyBaseBin: string): BodyGeneBin {
   } as BodyGeneBin;
 }
 
-function ParsePartGeneBin(partBaseBin: string, partType: PartType): PartGeneBin {
+function ParsePartGeneBin(partBaseBin: string): PartGeneBin {
   return {
     reservation: partBaseBin.slice(0, 12),
     stage: partBaseBin.slice(12, 15),
