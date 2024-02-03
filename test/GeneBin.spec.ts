@@ -1,4 +1,4 @@
-import { ParseGeneBinFromGenHex } from '../src/GenBin';
+import { ParseGeneBinFromGenHex } from '../src/GeneBin';
 
 describe('Gene binary', () => {
   // https://app.axieinfinity.com/marketplace/axies/11610035/

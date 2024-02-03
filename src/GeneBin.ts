@@ -1,5 +1,3 @@
-import { PartType } from './models/part';
-
 /** Collectively stores the binary representation of an Axie gene into their respective groups. */
 export interface BaseGeneBin {
   cls: string;
