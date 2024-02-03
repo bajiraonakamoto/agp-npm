@@ -1,23 +1,14 @@
 import { GeneBinGroup } from './models/internal/gene-bin-group';
-import {
-  binPartSkinMap,
-  Part,
-  PartGene,
-  PartSkin,
-  PartType
-} from './models/part';
-import { classColorMap, ColorGene } from './models/color';
-import { BodyShape, BodySkin } from './models/bodySkin';
+import { Part, PartGene, PartSkin, PartType } from './models/part';
+import { ColorGene } from './models/color';
 import { binClassMap, Cls } from './models/cls';
-import { binTagMap, Tag } from './models/tag';
-import { Gene } from './models/gene';
-import { binRegionMap, Region } from './models/region';
 import { PatternGene } from './models/pattern';
-import traitsJson = require('./assets/traits.json');
-import partsJson = require('./assets/parts.json');
 import { Gene2 } from './Gene2';
 import { GeneBin, ParseGeneBinFromGenHex } from './GeneBin';
 import { GeneBuilder } from './GeneBuilder';
+import traitsJson = require('./assets/traits.json');
+import partsJson = require('./assets/parts.json');
+import { Body } from './Body';
 
 
 /**
@@ -74,8 +65,8 @@ export class Axie {
    * Getter for the body skin of the Axie.
    * @returns Skin of the Axie's body.
    */
-  get bodySkin(): BodySkin {
-    return {} as any;
+  get body(): Body {
+    return this._genes.body;
   }
 
   /**

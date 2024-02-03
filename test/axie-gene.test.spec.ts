@@ -1,6 +1,6 @@
 import { AxieGene } from '../src/axie-gene';
 import { Cls } from '../src/models/cls';
-import { BodySkin } from '../src/models/bodySkin';
+import { BodySkin } from '../src/Body';
 import { Region } from '../src/models/region';
 import { Tag } from '../src/models/tag';
 import { PartType } from '../src/models/part';

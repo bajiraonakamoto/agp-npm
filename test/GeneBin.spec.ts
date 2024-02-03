@@ -9,9 +9,9 @@ describe('Gene binary', () => {
     const geneBin = ParseGeneBinFromGenHex(gene);
     expect(geneBin.body.heritability).toBe('1');
     expect(geneBin.body.skin).toBe('000000000');
-    expect(geneBin.body.bodyShape.d).toBe('000000010');
-    expect(geneBin.body.bodyShape.r1).toBe('000000010');
-    expect(geneBin.body.bodyShape.r2).toBe('000000010');
+    expect(geneBin.body.shape.d).toBe('000000010');
+    expect(geneBin.body.shape.r1).toBe('000000010');
+    expect(geneBin.body.shape.r2).toBe('000000010');
   });
 
   it('Parse primary color bin struct from gene bin', () => {

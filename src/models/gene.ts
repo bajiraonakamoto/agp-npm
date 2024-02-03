@@ -1,7 +1,7 @@
 import { ColorGene } from './color';
 import { Part } from './part';
 import { Region } from './region';
-import { BodySkin } from './bodySkin';
+import { BodySkin } from '../Body';
 import { Cls } from './cls';
 import { Tag } from './tag';
 import { PatternGene } from './pattern';

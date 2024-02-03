@@ -40,7 +40,7 @@ export interface PartGeneBin {
 export interface BodyGeneBin {
   heritability: string;
   skin: string;
-  bodyShape: Heritage;
+  shape: Heritage;
   primaryColor: Heritage;
 }
 
@@ -80,7 +80,7 @@ function ParseBodyGeneBin(bodyBaseBin: string): BodyGeneBin {
   return {
     heritability: bodyBaseBin.slice(0, 1),
     skin: bodyBaseBin.slice(1, 10),
-    bodyShape: {
+    shape: {
       d: bodyBaseBin.slice(10, 19),
       r1: bodyBaseBin.slice(19, 28),
       r2: bodyBaseBin.slice(28, 37)

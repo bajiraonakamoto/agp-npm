@@ -7,7 +7,7 @@ import {
     PartType,
 } from './models/part';
 import {classColorMap, ColorGene} from './models/color';
-import {BodyShape, BodySkin} from './models/bodySkin';
+import {BodyShape, BodySkin} from './Body';
 import {binClassMap, Cls} from './models/cls';
 import {binTagMap, Tag} from './models/tag';
 import {Gene} from './models/gene';
