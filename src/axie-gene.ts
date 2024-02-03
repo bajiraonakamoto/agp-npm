@@ -7,7 +7,7 @@ import {
     PartType,
 } from './models/part';
 import {classColorMap, ColorGene} from './models/color';
-import {binBodySkin, BodySkin} from './models/bodySkin';
+import {BodyShape, BodySkin} from './models/bodySkin';
 import {binClassMap, Cls} from './models/cls';
 import {binTagMap, Tag} from './models/tag';
 import {Gene} from './models/gene';
@@ -300,7 +300,7 @@ export class AxieGene {
      * @returns BodySkin body skin of the Axie.
      */
     private parseBodySkin(): BodySkin {
-        const ret = binBodySkin.get(this.geneBinGroup.bodySkin);
+        const ret = BodyShape.get(this.geneBinGroup.bodySkin);
         if (ret === undefined) throw new Error('cannot recognize body skin');
         return ret;
     }

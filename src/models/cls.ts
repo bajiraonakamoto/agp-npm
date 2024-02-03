@@ -25,3 +25,14 @@ export const binClassMap = new Map([
   ['10001', Cls.Dawn],
   ['10010', Cls.Dusk]
 ]);
+export const BinClassMap: { [key: string]: Cls } = {
+  '00000': Cls.Beast,
+  '00001': Cls.Bug,
+  '00010': Cls.Bird,
+  '00011': Cls.Plant,
+  '00100': Cls.Aquatic,
+  '00101': Cls.Reptile,
+  '10000': Cls.Mech,
+  '10001': Cls.Dawn,
+  '10010': Cls.Dusk
+};

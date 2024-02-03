@@ -1,0 +1,3908 @@
+{
+  "aquatic_horn_08_0_0": {
+    "id": "horn-anemone",
+    "name": "Anemone",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_horn_08_0_1": {
+    "id": "horn-anemone-2",
+    "name": "Anemone+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_horn_04_0_0": {
+    "id": "horn-antenna",
+    "name": "Antenna",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_horn_04_0_1": {
+    "id": "horn-antenna-2",
+    "name": "Antenna+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_horn_12_0_0": {
+    "id": "horn-arco",
+    "name": "Arco",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_horn_12_0_1": {
+    "id": "horn-arco-2",
+    "name": "Arco+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_horn_02_0_0": {
+    "id": "horn-babylonia",
+    "name": "Babylonia",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_horn_02_0_1": {
+    "id": "horn-babylonia-2",
+    "name": "Babylonia+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_horn_02_0_0": {
+    "id": "horn-bamboo-shoot",
+    "name": "Bamboo Spear",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_horn_02_0_1": {
+    "id": "horn-bamboo-shoot-2",
+    "name": "Bamboo Spear+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_horn_04_0_0": {
+    "id": "horn-beech",
+    "name": "Beech",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_horn_04_0_1": {
+    "id": "horn-beech-2",
+    "name": "Beech+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_horn_12_0_0": {
+    "id": "horn-bumpy",
+    "name": "Bumpy",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_horn_12_0_1": {
+    "id": "horn-bumpy-2",
+    "name": "Bumpy+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_horn_10_0_0": {
+    "id": "horn-cactus",
+    "name": "Cactus",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_horn_10_0_1": {
+    "id": "horn-cactus-2",
+    "name": "Cactus+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_horn_06_0_0": {
+    "id": "horn-caterpillars",
+    "name": "Caterpillars",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_horn_06_0_1": {
+    "id": "horn-caterpillars-2",
+    "name": "Caterpillars+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_horn_06_0_0": {
+    "id": "horn-cerastes",
+    "name": "Cerastes",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_horn_06_0_1": {
+    "id": "horn-cerastes-2",
+    "name": "Cerastes+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_horn_06_0_0": {
+    "id": "horn-clamshell",
+    "name": "Clamshell",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_horn_06_0_1": {
+    "id": "horn-clamshell-2",
+    "name": "Clamshell+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_horn_04_0_0": {
+    "id": "horn-cuckoo",
+    "name": "Cuckoo",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_horn_04_0_1": {
+    "id": "horn-cuckoo-2",
+    "name": "Cuckoo+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_horn_10_0_0": {
+    "id": "horn-dual-blade",
+    "name": "Dual Blade",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_horn_10_0_1": {
+    "id": "horn-dual-blade-2",
+    "name": "Dual Blade+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_horn_02_0_0": {
+    "id": "horn-eggshell",
+    "name": "Eggshell",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_horn_02_0_1": {
+    "id": "horn-eggshell-2",
+    "name": "Eggshell+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_horn_12_0_0": {
+    "id": "horn-feather-spear",
+    "name": "Feather Spear",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_horn_12_0_1": {
+    "id": "horn-feather-spear-2",
+    "name": "Feather Spear+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_horn_04_0_0": {
+    "id": "horn-imp",
+    "name": "Imp",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_horn_04_0_1": {
+    "id": "horn-imp-2",
+    "name": "Imp+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_horn_10_0_0": {
+    "id": "horn-incisor",
+    "name": "Incisor",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_horn_10_0_1": {
+    "id": "horn-incisor-2",
+    "name": "Incisor+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_horn_08_0_0": {
+    "id": "horn-kestrel",
+    "name": "Kestrel",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_horn_08_0_1": {
+    "id": "horn-kestrel-2",
+    "name": "Kestrel+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_horn_02_0_0": {
+    "id": "horn-lagging",
+    "name": "Lagging",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_horn_02_0_1": {
+    "id": "horn-lagging-2",
+    "name": "Lagging+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_horn_12_0_0": {
+    "id": "horn-leaf-bug",
+    "name": "Leaf Bug",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_horn_12_0_1": {
+    "id": "horn-leaf-bug-2",
+    "name": "Leaf Bug+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_horn_02_0_0": {
+    "id": "horn-little-branch",
+    "name": "Little Branch",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_horn_02_0_1": {
+    "id": "horn-little-branch-2",
+    "name": "Little Branch+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_horn_06_0_0": {
+    "id": "horn-merry",
+    "name": "Merry",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_horn_06_0_1": {
+    "id": "horn-merry-2",
+    "name": "Merry+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_horn_10_0_0": {
+    "id": "horn-oranda",
+    "name": "Oranda",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_horn_10_0_1": {
+    "id": "horn-oranda-2",
+    "name": "Oranda+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_horn_10_0_0": {
+    "id": "horn-parasite",
+    "name": "Parasite",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_horn_10_0_1": {
+    "id": "horn-parasite-2",
+    "name": "Parasite+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_horn_08_0_0": {
+    "id": "horn-pliers",
+    "name": "Pliers",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_horn_08_0_1": {
+    "id": "horn-pliers-2",
+    "name": "Pliers+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_horn_08_0_0": {
+    "id": "horn-pocky",
+    "name": "Pocky",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_horn_08_0_1": {
+    "id": "horn-pocky-2",
+    "name": "Pocky+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_horn_06_0_0": {
+    "id": "horn-rose-bud",
+    "name": "Rose Bud",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_horn_06_0_1": {
+    "id": "horn-rose-bud-2",
+    "name": "Rose Bud+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_horn_04_0_0": {
+    "id": "horn-scaly-spear",
+    "name": "Scaly Spear",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_horn_04_0_1": {
+    "id": "horn-scaly-spear-2",
+    "name": "Scaly Spear+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_horn_08_0_0": {
+    "id": "horn-scaly-spoon",
+    "name": "Scaly Spoon",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_horn_08_0_1": {
+    "id": "horn-scaly-spoon-2",
+    "name": "Scaly Spoon+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_horn_12_0_0": {
+    "id": "horn-shoal-star",
+    "name": "Shoal Star",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_horn_12_0_1": {
+    "id": "horn-shoal-star-2",
+    "name": "Shoal Star+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_horn_08_0_0": {
+    "id": "horn-strawberry-shortcake",
+    "name": "Strawberry Shortcake",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_horn_08_0_1": {
+    "id": "horn-strawberry-shortcake-2",
+    "name": "Strawberry Shortcake+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_horn_04_0_0": {
+    "id": "horn-teal-shell",
+    "name": "Teal Shell",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_horn_04_0_1": {
+    "id": "horn-teal-shell-2",
+    "name": "Teal Shell+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_horn_06_0_0": {
+    "id": "horn-trump",
+    "name": "Trump",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_horn_06_0_1": {
+    "id": "horn-trump-2",
+    "name": "Trump+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_horn_02_0_0": {
+    "id": "horn-unko",
+    "name": "Unko",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_horn_02_0_1": {
+    "id": "horn-unko-2",
+    "name": "Unko+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_horn_12_0_0": {
+    "id": "horn-watermelon",
+    "name": "Watermelon",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_horn_12_0_1": {
+    "id": "horn-watermelon-2",
+    "name": "Watermelon+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_horn_10_0_0": {
+    "id": "horn-wing-horn",
+    "name": "Wing Horn",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_horn_10_0_1": {
+    "id": "horn-wing-horn-2",
+    "name": "Wing Horn+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_horn_02_10_0": {
+    "id": "horn-strawberry-ice-cream-shiny",
+    "name": "Unko",
+    "clazz": "reptile",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 10
+  },
+  "reptile_horn_02_10_1": {
+    "id": "horn-strawberry-ice-cream-shiny-2",
+    "name": "Unko+",
+    "clazz": "reptile",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 10
+  },
+  "reptile_horn_02_11_0": {
+    "id": "horn-vanilla-ice-cream-shiny",
+    "name": "Unko",
+    "clazz": "reptile",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 11
+  },
+  "reptile_horn_02_11_1": {
+    "id": "horn-vanilla-ice-cream-shiny-2",
+    "name": "Unko+",
+    "clazz": "reptile",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 11
+  },
+  "reptile_horn_02_9_0": {
+    "id": "horn-watermelon-ice-cream-shiny",
+    "name": "Unko",
+    "clazz": "reptile",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 9
+  },
+  "reptile_horn_02_9_1": {
+    "id": "horn-watermelon-ice-cream-shiny-2",
+    "name": "Unko+",
+    "clazz": "reptile",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 9
+  },
+  "aquatic_horn_02_1_0": {
+    "id": "horn-candy-babylonia",
+    "name": "Babylonia",
+    "clazz": "aquatic",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "aquatic_horn_02_1_1": {
+    "id": "horn-candy-babylonia-2",
+    "name": "Babylonia+",
+    "clazz": "aquatic",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "plant_horn_02_1_0": {
+    "id": "horn-golden-bamboo-shoot",
+    "name": "Bamboo Spear",
+    "clazz": "plant",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "plant_horn_02_1_1": {
+    "id": "horn-golden-bamboo-shoot-2",
+    "name": "Bamboo Spear+",
+    "clazz": "plant",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bird_horn_02_1_0": {
+    "id": "horn-golden-shell",
+    "name": "Eggshell",
+    "clazz": "bird",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bird_horn_02_1_1": {
+    "id": "horn-golden-shell-2",
+    "name": "Eggshell+",
+    "clazz": "bird",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bug_horn_02_1_0": {
+    "id": "horn-laggingggggg",
+    "name": "Lagging",
+    "clazz": "bug",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bug_horn_02_1_1": {
+    "id": "horn-laggingggggg-2",
+    "name": "Lagging+",
+    "clazz": "bug",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "reptile_horn_02_1_0": {
+    "id": "horn-pinku-unko",
+    "name": "Unko",
+    "clazz": "reptile",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "reptile_horn_02_1_1": {
+    "id": "horn-pinku-unko-2",
+    "name": "Unko+",
+    "clazz": "reptile",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "beast_horn_02_1_0": {
+    "id": "horn-winter-branch",
+    "name": "Little Branch",
+    "clazz": "beast",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "beast_horn_02_1_1": {
+    "id": "horn-winter-branch-2",
+    "name": "Little Branch+",
+    "clazz": "beast",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "beast_horn_04_3_0": {
+    "id": "horn-kendama",
+    "name": "Imp",
+    "clazz": "beast",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "beast_horn_04_3_1": {
+    "id": "horn-kendama-2",
+    "name": "Imp+",
+    "clazz": "beast",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "beast_horn_08_3_0": {
+    "id": "horn-umaibo",
+    "name": "Pocky",
+    "clazz": "beast",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "beast_horn_08_3_1": {
+    "id": "horn-umaibo-2",
+    "name": "Pocky+",
+    "clazz": "beast",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "plant_horn_04_3_0": {
+    "id": "horn-yorishiro",
+    "name": "Beech",
+    "clazz": "plant",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "plant_horn_04_3_1": {
+    "id": "horn-yorishiro-2",
+    "name": "Beech+",
+    "clazz": "plant",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "bird_horn_12_4_0": {
+    "id": "horn-spruce-spear",
+    "name": "Feather Spear",
+    "clazz": "bird",
+    "specialGenes": "xmas-2018",
+    "partSkin": 4
+  },
+  "bird_horn_12_4_1": {
+    "id": "horn-spruce-spear-2",
+    "name": "Feather Spear+",
+    "clazz": "bird",
+    "specialGenes": "xmas-2018",
+    "partSkin": 4
+  },
+  "plant_horn_10_5_0": {
+    "id": "horn-santas-gift",
+    "name": "Cactus",
+    "clazz": "plant",
+    "specialGenes": "xmas-2019",
+    "partSkin": 5
+  },
+  "plant_horn_10_5_1": {
+    "id": "horn-santas-gift-2",
+    "name": "Cactus+",
+    "clazz": "plant",
+    "specialGenes": "xmas-2019",
+    "partSkin": 5
+  },
+  "reptile_horn_02_7_0": {
+    "id": "horn-strawberry-ice-cream",
+    "name": "Unko",
+    "clazz": "reptile",
+    "specialGenes": "summer-2022",
+    "partSkin": 7
+  },
+  "reptile_horn_02_7_1": {
+    "id": "horn-strawberry-ice-cream-2",
+    "name": "Unko+",
+    "clazz": "reptile",
+    "specialGenes": "summer-2022",
+    "partSkin": 7
+  },
+  "reptile_horn_02_8_0": {
+    "id": "horn-vanilla-ice-cream",
+    "name": "Unko",
+    "clazz": "reptile",
+    "specialGenes": "summer-2022",
+    "partSkin": 8
+  },
+  "reptile_horn_02_8_1": {
+    "id": "horn-vanilla-ice-cream-2",
+    "name": "Unko+",
+    "clazz": "reptile",
+    "specialGenes": "summer-2022",
+    "partSkin": 8
+  },
+  "reptile_horn_02_6_0": {
+    "id": "horn-watermelon-ice-cream",
+    "name": "Unko",
+    "clazz": "reptile",
+    "specialGenes": "summer-2022",
+    "partSkin": 6
+  },
+  "reptile_horn_02_6_1": {
+    "id": "horn-watermelon-ice-cream-2",
+    "name": "Unko+",
+    "clazz": "reptile",
+    "specialGenes": "summer-2022",
+    "partSkin": 6
+  },
+  "aquatic_horn_12_2_0": {
+    "id": "horn-5h04l-5t4r",
+    "name": "Shoal Star",
+    "clazz": "aquatic",
+    "specialGenes": "bionic",
+    "partSkin": 2
+  },
+  "aquatic_horn_12_2_1": {
+    "id": "horn-5h04l-5t4r-2",
+    "name": "Shoal Star+",
+    "clazz": "aquatic",
+    "specialGenes": "bionic",
+    "partSkin": 2
+  },
+  "bug_horn_10_2_0": {
+    "id": "horn-p4r451t3",
+    "name": "Parasite",
+    "clazz": "bug",
+    "specialGenes": "bionic",
+    "partSkin": 2
+  },
+  "bug_horn_10_2_1": {
+    "id": "horn-p4r451t3-2",
+    "name": "Parasite+",
+    "clazz": "bug",
+    "specialGenes": "bionic",
+    "partSkin": 2
+  },
+  "plant_eyes_10_0_0": {
+    "id": "eyes-blossom",
+    "name": "Blossom",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_eyes_10_0_1": {
+    "id": "eyes-blossom-2",
+    "name": "Blossom+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_eyes_02_0_0": {
+    "id": "eyes-bookworm",
+    "name": "Bookworm",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_eyes_02_0_1": {
+    "id": "eyes-bookworm-2",
+    "name": "Bookworm+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_eyes_10_0_0": {
+    "id": "eyes-chubby",
+    "name": "Chubby",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_eyes_10_0_1": {
+    "id": "eyes-chubby-2",
+    "name": "Chubby+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_eyes_04_0_0": {
+    "id": "eyes-clear",
+    "name": "Clear",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_eyes_04_0_1": {
+    "id": "eyes-clear-2",
+    "name": "Clear+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_eyes_04_0_0": {
+    "id": "eyes-confused",
+    "name": "Confusion",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_eyes_04_0_1": {
+    "id": "eyes-confused-2",
+    "name": "Confusion+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_eyes_08_0_0": {
+    "id": "eyes-cucumber-slice",
+    "name": "Cucumber Slice",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_eyes_08_0_1": {
+    "id": "eyes-cucumber-slice-2",
+    "name": "Cucumber Slice+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_eyes_02_0_0": {
+    "id": "eyes-gecko",
+    "name": "Gecko",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_eyes_02_0_1": {
+    "id": "eyes-gecko-2",
+    "name": "Gecko+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_eyes_08_0_0": {
+    "id": "eyes-gero",
+    "name": "Gero",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_eyes_08_0_1": {
+    "id": "eyes-gero-2",
+    "name": "Gero+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_eyes_10_0_0": {
+    "id": "eyes-kotaro",
+    "name": "Kotaro?",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_eyes_10_0_1": {
+    "id": "eyes-kotaro-2",
+    "name": "Kotaro?+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_eyes_08_0_0": {
+    "id": "eyes-little-owl",
+    "name": "Little Owl",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_eyes_08_0_1": {
+    "id": "eyes-little-owl-2",
+    "name": "Little Owl+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_eyes_04_0_0": {
+    "id": "eyes-little-peas",
+    "name": "Little Peas",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_eyes_04_0_1": {
+    "id": "eyes-little-peas-2",
+    "name": "Little Peas+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_eyes_04_0_0": {
+    "id": "eyes-lucas",
+    "name": "Lucas",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_eyes_04_0_1": {
+    "id": "eyes-lucas-2",
+    "name": "Lucas+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_eyes_02_0_0": {
+    "id": "eyes-mavis",
+    "name": "Mavis",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_eyes_02_0_1": {
+    "id": "eyes-mavis-2",
+    "name": "Mavis+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_eyes_04_0_0": {
+    "id": "eyes-neo",
+    "name": "Neo",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_eyes_04_0_1": {
+    "id": "eyes-neo-2",
+    "name": "Neo+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_eyes_08_0_0": {
+    "id": "eyes-nerdy",
+    "name": "Nerdy",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_eyes_08_0_1": {
+    "id": "eyes-nerdy-2",
+    "name": "Nerdy+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_eyes_02_0_0": {
+    "id": "eyes-papi",
+    "name": "Papi",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_eyes_02_0_1": {
+    "id": "eyes-papi-2",
+    "name": "Papi+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_eyes_08_0_0": {
+    "id": "eyes-puppy",
+    "name": "Puppy",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_eyes_08_0_1": {
+    "id": "eyes-puppy-2",
+    "name": "Puppy+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_eyes_10_0_0": {
+    "id": "eyes-robin",
+    "name": "Robin",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_eyes_10_0_1": {
+    "id": "eyes-robin-2",
+    "name": "Robin+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_eyes_08_0_0": {
+    "id": "eyes-scar",
+    "name": "Scar",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_eyes_08_0_1": {
+    "id": "eyes-scar-2",
+    "name": "Scar+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_eyes_02_0_0": {
+    "id": "eyes-sleepless",
+    "name": "Sleepless",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_eyes_02_0_1": {
+    "id": "eyes-sleepless-2",
+    "name": "Sleepless+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_eyes_10_0_0": {
+    "id": "eyes-telescope",
+    "name": "Telescope",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_eyes_10_0_1": {
+    "id": "eyes-telescope-2",
+    "name": "Telescope+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_eyes_10_0_0": {
+    "id": "eyes-topaz",
+    "name": "Topaz",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_eyes_10_0_1": {
+    "id": "eyes-topaz-2",
+    "name": "Topaz+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_eyes_04_0_0": {
+    "id": "eyes-tricky",
+    "name": "Tricky",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_eyes_04_0_1": {
+    "id": "eyes-tricky-2",
+    "name": "Tricky+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_eyes_02_0_0": {
+    "id": "eyes-zeal",
+    "name": "Zeal",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_eyes_02_0_1": {
+    "id": "eyes-zeal-2",
+    "name": "Zeal+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_eyes_04_9_0": {
+    "id": "eyes-flower-sunglasses-shiny",
+    "name": "Neo",
+    "clazz": "bug",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 9
+  },
+  "bug_eyes_04_9_1": {
+    "id": "eyes-flower-sunglasses-shiny-2",
+    "name": "Neo+",
+    "clazz": "bug",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 9
+  },
+  "bug_eyes_02_1_0": {
+    "id": "eyes-broken-bookworm",
+    "name": "Bookworm",
+    "clazz": "bug",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bug_eyes_02_1_1": {
+    "id": "eyes-broken-bookworm-2",
+    "name": "Bookworm+",
+    "clazz": "bug",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "beast_eyes_02_1_0": {
+    "id": "eyes-calico-zeal",
+    "name": "Zeal",
+    "clazz": "beast",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "beast_eyes_02_1_1": {
+    "id": "eyes-calico-zeal-2",
+    "name": "Zeal+",
+    "clazz": "beast",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "reptile_eyes_02_1_0": {
+    "id": "eyes-crimson-gecko",
+    "name": "Gecko",
+    "clazz": "reptile",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "reptile_eyes_02_1_1": {
+    "id": "eyes-crimson-gecko-2",
+    "name": "Gecko+",
+    "clazz": "reptile",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "plant_eyes_02_1_0": {
+    "id": "eyes-dreamy-papi",
+    "name": "Papi",
+    "clazz": "plant",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "plant_eyes_02_1_1": {
+    "id": "eyes-dreamy-papi-2",
+    "name": "Papi+",
+    "clazz": "plant",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "aquatic_eyes_02_1_0": {
+    "id": "eyes-insomnia",
+    "name": "Sleepless",
+    "clazz": "aquatic",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "aquatic_eyes_02_1_1": {
+    "id": "eyes-insomnia-2",
+    "name": "Sleepless+",
+    "clazz": "aquatic",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bird_eyes_02_1_0": {
+    "id": "eyes-sky-mavis",
+    "name": "Mavis",
+    "clazz": "bird",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bird_eyes_02_1_1": {
+    "id": "eyes-sky-mavis-2",
+    "name": "Mavis+",
+    "clazz": "bird",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "reptile_eyes_08_3_0": {
+    "id": "eyes-dokuganryu",
+    "name": "Scar",
+    "clazz": "reptile",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "reptile_eyes_08_3_1": {
+    "id": "eyes-dokuganryu-2",
+    "name": "Scar+",
+    "clazz": "reptile",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "reptile_eyes_10_3_0": {
+    "id": "eyes-kabuki",
+    "name": "Topaz",
+    "clazz": "reptile",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "reptile_eyes_10_3_1": {
+    "id": "eyes-kabuki-2",
+    "name": "Topaz+",
+    "clazz": "reptile",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "aquatic_eyes_02_3_0": {
+    "id": "eyes-yen",
+    "name": "Sleepless",
+    "clazz": "aquatic",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "aquatic_eyes_02_3_1": {
+    "id": "eyes-yen-2",
+    "name": "Sleepless+",
+    "clazz": "aquatic",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "beast_eyes_04_4_0": {
+    "id": "eyes-snowflakes",
+    "name": "Little Peas",
+    "clazz": "beast",
+    "specialGenes": "xmas-2018",
+    "partSkin": 4
+  },
+  "beast_eyes_04_4_1": {
+    "id": "eyes-snowflakes-2",
+    "name": "Little Peas+",
+    "clazz": "beast",
+    "specialGenes": "xmas-2018",
+    "partSkin": 4
+  },
+  "bird_eyes_04_5_0": {
+    "id": "eyes-icy-gaze",
+    "name": "Lucas",
+    "clazz": "bird",
+    "specialGenes": "xmas-2019",
+    "partSkin": 5
+  },
+  "bird_eyes_04_5_1": {
+    "id": "eyes-icy-gaze-2",
+    "name": "Lucas+",
+    "clazz": "bird",
+    "specialGenes": "xmas-2019",
+    "partSkin": 5
+  },
+  "bug_eyes_04_6_0": {
+    "id": "eyes-flower-sunglasses",
+    "name": "Neo",
+    "clazz": "bug",
+    "specialGenes": "summer-2022",
+    "partSkin": 6
+  },
+  "bug_eyes_04_6_1": {
+    "id": "eyes-flower-sunglasses-2",
+    "name": "Neo+",
+    "clazz": "bug",
+    "specialGenes": "summer-2022",
+    "partSkin": 6
+  },
+  "bug_ears_04_0_0": {
+    "id": "ears-beetle-spike",
+    "name": "Beetle Spike",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_ears_04_0_1": {
+    "id": "ears-beetle-spike-2",
+    "name": "Beetle Spike+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_ears_12_0_0": {
+    "id": "ears-belieber",
+    "name": "Belieber",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_ears_12_0_1": {
+    "id": "ears-belieber-2",
+    "name": "Belieber+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_ears_06_0_0": {
+    "id": "ears-bubblemaker",
+    "name": "Bubblemaker",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_ears_06_0_1": {
+    "id": "ears-bubblemaker-2",
+    "name": "Bubblemaker+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_ears_04_0_0": {
+    "id": "ears-clover",
+    "name": "Clover",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_ears_04_0_1": {
+    "id": "ears-clover-2",
+    "name": "Clover+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_ears_10_0_0": {
+    "id": "ears-curly",
+    "name": "Curly",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_ears_10_0_1": {
+    "id": "ears-curly-2",
+    "name": "Curly+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_ears_06_0_0": {
+    "id": "ears-curved-spine",
+    "name": "Curved Spine",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_ears_06_0_1": {
+    "id": "ears-curved-spine-2",
+    "name": "Curved Spine+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_ears_06_0_0": {
+    "id": "ears-ear-breathing",
+    "name": "Ear Breathing",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_ears_06_0_1": {
+    "id": "ears-ear-breathing-2",
+    "name": "Ear Breathing+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_ears_04_0_0": {
+    "id": "ears-early-bird",
+    "name": "Early Bird",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_ears_04_0_1": {
+    "id": "ears-early-bird-2",
+    "name": "Early Bird+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_ears_12_0_0": {
+    "id": "ears-earwing",
+    "name": "Earwing",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_ears_12_0_1": {
+    "id": "ears-earwing-2",
+    "name": "Earwing+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_ears_04_0_0": {
+    "id": "ears-friezard",
+    "name": "Friezard",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_ears_04_0_1": {
+    "id": "ears-friezard-2",
+    "name": "Friezard+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_ears_10_0_0": {
+    "id": "ears-gill",
+    "name": "Gill",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_ears_10_0_1": {
+    "id": "ears-gill-2",
+    "name": "Gill+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_ears_10_0_0": {
+    "id": "ears-hollow",
+    "name": "Hollow",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_ears_10_0_1": {
+    "id": "ears-hollow-2",
+    "name": "Hollow+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_ears_08_0_0": {
+    "id": "ears-inkling",
+    "name": "Inkling",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_ears_08_0_1": {
+    "id": "ears-inkling-2",
+    "name": "Inkling+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_ears_06_0_0": {
+    "id": "ears-innocent-lamb",
+    "name": "Innocent Lamb",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_ears_06_0_1": {
+    "id": "ears-innocent-lamb-2",
+    "name": "Innocent Lamb+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_ears_02_0_0": {
+    "id": "ears-larva",
+    "name": "Larva",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_ears_02_0_1": {
+    "id": "ears-larva-2",
+    "name": "Larva+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_ears_08_0_0": {
+    "id": "ears-leaf-bug",
+    "name": "Leaf Bug",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_ears_08_0_1": {
+    "id": "ears-leaf-bug-2",
+    "name": "Leaf Bug+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_ears_02_0_0": {
+    "id": "ears-leafy",
+    "name": "Leafy",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_ears_02_0_1": {
+    "id": "ears-leafy-2",
+    "name": "Leafy+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_ears_12_0_0": {
+    "id": "ears-lotus",
+    "name": "Lotus",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_ears_12_0_1": {
+    "id": "ears-lotus-2",
+    "name": "Lotus+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_ears_02_0_0": {
+    "id": "ears-nimo",
+    "name": "Nimo",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_ears_02_0_1": {
+    "id": "ears-nimo-2",
+    "name": "Nimo+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_ears_04_0_0": {
+    "id": "ears-nut-cracker",
+    "name": "Nut Cracker",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_ears_04_0_1": {
+    "id": "ears-nut-cracker-2",
+    "name": "Nut Cracker+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_ears_02_0_0": {
+    "id": "ears-nyan",
+    "name": "Nyan",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_ears_02_0_1": {
+    "id": "ears-nyan-2",
+    "name": "Nyan+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_ears_06_0_0": {
+    "id": "ears-owl",
+    "name": "Little Owl",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_ears_06_0_1": {
+    "id": "ears-owl-2",
+    "name": "Little Owl+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_ears_08_0_0": {
+    "id": "ears-peace-maker",
+    "name": "Peace Maker",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_ears_08_0_1": {
+    "id": "ears-peace-maker-2",
+    "name": "Peace Maker+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_ears_02_0_0": {
+    "id": "ears-pink-cheek",
+    "name": "Pink Cheek",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_ears_02_0_1": {
+    "id": "ears-pink-cheek-2",
+    "name": "Pink Cheek+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_ears_02_0_0": {
+    "id": "ears-pogona",
+    "name": "Pogona",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_ears_02_0_1": {
+    "id": "ears-pogona-2",
+    "name": "Pogona+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_ears_10_0_0": {
+    "id": "ears-puppy",
+    "name": "Puppy",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_ears_10_0_1": {
+    "id": "ears-puppy-2",
+    "name": "Puppy+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_ears_12_0_0": {
+    "id": "ears-risky-bird",
+    "name": "Risky Bird",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_ears_12_0_1": {
+    "id": "ears-risky-bird-2",
+    "name": "Risky Bird+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_ears_06_0_0": {
+    "id": "ears-rosa",
+    "name": "Rosa",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_ears_06_0_1": {
+    "id": "ears-rosa-2",
+    "name": "Rosa+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_ears_08_0_0": {
+    "id": "ears-sakura",
+    "name": "Sakura",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_ears_08_0_1": {
+    "id": "ears-sakura-2",
+    "name": "Sakura+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_ears_12_0_0": {
+    "id": "ears-seaslug",
+    "name": "Seaslug",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_ears_12_0_1": {
+    "id": "ears-seaslug-2",
+    "name": "Seaslug+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_ears_12_0_0": {
+    "id": "ears-sidebarb",
+    "name": "Sidebarb",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_ears_12_0_1": {
+    "id": "ears-sidebarb-2",
+    "name": "Sidebarb+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_ears_08_0_0": {
+    "id": "ears-small-frill",
+    "name": "Small Frill",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_ears_08_0_1": {
+    "id": "ears-small-frill-2",
+    "name": "Small Frill+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_ears_10_0_0": {
+    "id": "ears-swirl",
+    "name": "Swirl",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_ears_10_0_1": {
+    "id": "ears-swirl-2",
+    "name": "Swirl+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_ears_10_0_0": {
+    "id": "ears-tassels",
+    "name": "Tassels",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_ears_10_0_1": {
+    "id": "ears-tassels-2",
+    "name": "Tassels+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_ears_04_0_0": {
+    "id": "ears-tiny-fan",
+    "name": "Tiny Fan",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_ears_04_0_1": {
+    "id": "ears-tiny-fan-2",
+    "name": "Tiny Fan+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_ears_08_0_0": {
+    "id": "ears-zen",
+    "name": "Zen",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_ears_08_0_1": {
+    "id": "ears-zen-2",
+    "name": "Zen+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_ears_02_9_0": {
+    "id": "ears-coca-shiny",
+    "name": "Nyan",
+    "clazz": "beast",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 9
+  },
+  "beast_ears_02_9_1": {
+    "id": "ears-coca-shiny-2",
+    "name": "Nyan+",
+    "clazz": "beast",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 9
+  },
+  "reptile_ears_02_1_0": {
+    "id": "ears-deadly-pogona",
+    "name": "Pogona",
+    "clazz": "reptile",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "reptile_ears_02_1_1": {
+    "id": "ears-deadly-pogona-2",
+    "name": "Pogona+",
+    "clazz": "reptile",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bird_ears_02_1_0": {
+    "id": "ears-heart-cheek",
+    "name": "Pink Cheek",
+    "clazz": "bird",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bird_ears_02_1_1": {
+    "id": "ears-heart-cheek-2",
+    "name": "Pink Cheek+",
+    "clazz": "bird",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "beast_ears_02_1_0": {
+    "id": "ears-pointy-nyan",
+    "name": "Nyan",
+    "clazz": "beast",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "beast_ears_02_1_1": {
+    "id": "ears-pointy-nyan-2",
+    "name": "Nyan+",
+    "clazz": "beast",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "aquatic_ears_02_1_0": {
+    "id": "ears-red-nimo",
+    "name": "Nimo",
+    "clazz": "aquatic",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "aquatic_ears_02_1_1": {
+    "id": "ears-red-nimo-2",
+    "name": "Nimo+",
+    "clazz": "aquatic",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "plant_ears_02_1_0": {
+    "id": "ears-the-last-leaf",
+    "name": "Leafy",
+    "clazz": "plant",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "plant_ears_02_1_1": {
+    "id": "ears-the-last-leaf-2",
+    "name": "Leafy+",
+    "clazz": "plant",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bug_ears_02_1_0": {
+    "id": "ears-vector",
+    "name": "Larva",
+    "clazz": "bug",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bug_ears_02_1_1": {
+    "id": "ears-vector-2",
+    "name": "Larva+",
+    "clazz": "bug",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bird_ears_12_3_0": {
+    "id": "ears-karimata",
+    "name": "Risky Bird",
+    "clazz": "bird",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "bird_ears_12_3_1": {
+    "id": "ears-karimata-2",
+    "name": "Risky Bird+",
+    "clazz": "bird",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "plant_ears_08_3_0": {
+    "id": "ears-maiko",
+    "name": "Sakura",
+    "clazz": "plant",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "plant_ears_08_3_1": {
+    "id": "ears-maiko-2",
+    "name": "Sakura+",
+    "clazz": "plant",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "bug_ears_12_3_0": {
+    "id": "ears-mon",
+    "name": "Earwing",
+    "clazz": "bug",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "bug_ears_12_3_1": {
+    "id": "ears-mon-2",
+    "name": "Earwing+",
+    "clazz": "bug",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "beast_ears_06_4_0": {
+    "id": "ears-merry-lamb",
+    "name": "Innocent Lamb",
+    "clazz": "beast",
+    "specialGenes": "xmas-2018",
+    "partSkin": 4
+  },
+  "beast_ears_06_4_1": {
+    "id": "ears-merry-lamb-2",
+    "name": "Innocent Lamb+",
+    "clazz": "beast",
+    "specialGenes": "xmas-2018",
+    "partSkin": 4
+  },
+  "plant_ears_10_5_0": {
+    "id": "ears-pinecones",
+    "name": "Hollow",
+    "clazz": "plant",
+    "specialGenes": "xmas-2019",
+    "partSkin": 5
+  },
+  "plant_ears_10_5_1": {
+    "id": "ears-pinecones-2",
+    "name": "Hollow+",
+    "clazz": "plant",
+    "specialGenes": "xmas-2019",
+    "partSkin": 5
+  },
+  "beast_ears_02_6_0": {
+    "id": "ears-coca",
+    "name": "Nyan",
+    "clazz": "beast",
+    "specialGenes": "summer-2022",
+    "partSkin": 6
+  },
+  "beast_ears_02_6_1": {
+    "id": "ears-coca-2",
+    "name": "Nyan+",
+    "clazz": "beast",
+    "specialGenes": "summer-2022",
+    "partSkin": 6
+  },
+  "beast_mouth_08_0_0": {
+    "id": "mouth-axie-kiss",
+    "name": "Axie Kiss",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_mouth_08_0_1": {
+    "id": "mouth-axie-kiss-2",
+    "name": "Axie Kiss+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_mouth_04_0_0": {
+    "id": "mouth-catfish",
+    "name": "Catfish",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_mouth_04_0_1": {
+    "id": "mouth-catfish-2",
+    "name": "Catfish+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_mouth_10_0_0": {
+    "id": "mouth-confident",
+    "name": "Confident",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_mouth_10_0_1": {
+    "id": "mouth-confident-2",
+    "name": "Confident+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_mouth_08_0_0": {
+    "id": "mouth-cute-bunny",
+    "name": "Cute Bunny",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_mouth_08_0_1": {
+    "id": "mouth-cute-bunny-2",
+    "name": "Cute Bunny+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_mouth_02_0_0": {
+    "id": "mouth-doubletalk",
+    "name": "Doubletalk",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_mouth_02_0_1": {
+    "id": "mouth-doubletalk-2",
+    "name": "Doubletalk+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_mouth_04_0_0": {
+    "id": "mouth-goda",
+    "name": "Goda",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_mouth_04_0_1": {
+    "id": "mouth-goda-2",
+    "name": "Goda+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_mouth_08_0_0": {
+    "id": "mouth-herbivore",
+    "name": "Herbivore",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_mouth_08_0_1": {
+    "id": "mouth-herbivore-2",
+    "name": "Herbivore+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_mouth_08_0_0": {
+    "id": "mouth-hungry-bird",
+    "name": "Hungry Bird",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_mouth_08_0_1": {
+    "id": "mouth-hungry-bird-2",
+    "name": "Hungry Bird+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_mouth_04_0_0": {
+    "id": "mouth-kotaro",
+    "name": "Kotaro",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_mouth_04_0_1": {
+    "id": "mouth-kotaro-2",
+    "name": "Kotaro+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_mouth_02_0_0": {
+    "id": "mouth-lam",
+    "name": "Lam",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_mouth_02_0_1": {
+    "id": "mouth-lam-2",
+    "name": "Lam+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_mouth_10_0_0": {
+    "id": "mouth-little-owl",
+    "name": "Little Owl",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_mouth_10_0_1": {
+    "id": "mouth-little-owl-2",
+    "name": "Little Owl+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_mouth_02_0_0": {
+    "id": "mouth-mosquito",
+    "name": "Mosquito",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_mouth_02_0_1": {
+    "id": "mouth-mosquito-2",
+    "name": "Mosquito+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_mouth_02_0_0": {
+    "id": "mouth-nut-cracker",
+    "name": "Nut Cracker",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_mouth_02_0_1": {
+    "id": "mouth-nut-cracker-2",
+    "name": "Nut Cracker+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_mouth_04_0_0": {
+    "id": "mouth-peace-maker",
+    "name": "Peace Maker",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_mouth_04_0_1": {
+    "id": "mouth-peace-maker-2",
+    "name": "Peace Maker+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_mouth_04_0_0": {
+    "id": "mouth-pincer",
+    "name": "Pincer",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_mouth_04_0_1": {
+    "id": "mouth-pincer-2",
+    "name": "Pincer+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_mouth_10_0_0": {
+    "id": "mouth-piranha",
+    "name": "Piranha",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_mouth_10_0_1": {
+    "id": "mouth-piranha-2",
+    "name": "Piranha+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_mouth_08_0_0": {
+    "id": "mouth-razor-bite",
+    "name": "Razor Bite",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_mouth_08_0_1": {
+    "id": "mouth-razor-bite-2",
+    "name": "Razor Bite+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_mouth_08_0_0": {
+    "id": "mouth-risky-fish",
+    "name": "Risky Fish",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_mouth_08_0_1": {
+    "id": "mouth-risky-fish-2",
+    "name": "Risky Fish+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_mouth_02_0_0": {
+    "id": "mouth-serious",
+    "name": "Serious",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_mouth_02_0_1": {
+    "id": "mouth-serious-2",
+    "name": "Serious+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_mouth_10_0_0": {
+    "id": "mouth-silence-whisper",
+    "name": "Silence Whisper",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_mouth_10_0_1": {
+    "id": "mouth-silence-whisper-2",
+    "name": "Silence Whisper+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_mouth_10_0_0": {
+    "id": "mouth-square-teeth",
+    "name": "Square Teeth",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_mouth_10_0_1": {
+    "id": "mouth-square-teeth-2",
+    "name": "Square Teeth+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_mouth_10_0_0": {
+    "id": "mouth-tiny-turtle",
+    "name": "Tiny Turtle",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_mouth_10_0_1": {
+    "id": "mouth-tiny-turtle-2",
+    "name": "Tiny Turtle+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_mouth_02_0_0": {
+    "id": "mouth-toothless-bite",
+    "name": "Toothless Bite",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_mouth_02_0_1": {
+    "id": "mouth-toothless-bite-2",
+    "name": "Toothless Bite+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_mouth_04_0_0": {
+    "id": "mouth-zigzag",
+    "name": "Zigzag",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_mouth_04_0_1": {
+    "id": "mouth-zigzag-2",
+    "name": "Zigzag+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_mouth_08_9_0": {
+    "id": "mouth-bubble-fish-shiny",
+    "name": "Risky Fish",
+    "clazz": "aquatic",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 9
+  },
+  "aquatic_mouth_08_9_1": {
+    "id": "mouth-bubble-fish-shiny-2",
+    "name": "Risky Fish+",
+    "clazz": "aquatic",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 9
+  },
+  "bug_mouth_02_1_0": {
+    "id": "mouth-feasting-mosquito",
+    "name": "Mosquito",
+    "clazz": "bug",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bug_mouth_02_1_1": {
+    "id": "mouth-feasting-mosquito-2",
+    "name": "Mosquito+",
+    "clazz": "bug",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "plant_mouth_02_1_0": {
+    "id": "mouth-humorless",
+    "name": "Serious",
+    "clazz": "plant",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "plant_mouth_02_1_1": {
+    "id": "mouth-humorless-2",
+    "name": "Serious+",
+    "clazz": "plant",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "aquatic_mouth_02_1_0": {
+    "id": "mouth-lam-handsome",
+    "name": "Lam",
+    "clazz": "aquatic",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "aquatic_mouth_02_1_1": {
+    "id": "mouth-lam-handsome-2",
+    "name": "Lam+",
+    "clazz": "aquatic",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bird_mouth_02_1_0": {
+    "id": "mouth-mr-doubletalk",
+    "name": "Doubletalk",
+    "clazz": "bird",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bird_mouth_02_1_1": {
+    "id": "mouth-mr-doubletalk-2",
+    "name": "Doubletalk+",
+    "clazz": "bird",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "beast_mouth_02_1_0": {
+    "id": "mouth-skull-cracker",
+    "name": "Nut Cracker",
+    "clazz": "beast",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "beast_mouth_02_1_1": {
+    "id": "mouth-skull-cracker-2",
+    "name": "Nut Cracker+",
+    "clazz": "beast",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "reptile_mouth_02_1_0": {
+    "id": "mouth-venom-bite",
+    "name": "Toothless Bite",
+    "clazz": "reptile",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "reptile_mouth_02_1_1": {
+    "id": "mouth-venom-bite-2",
+    "name": "Toothless Bite+",
+    "clazz": "reptile",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "reptile_mouth_10_3_0": {
+    "id": "mouth-dango",
+    "name": "Tiny Turtle",
+    "clazz": "reptile",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "reptile_mouth_10_3_1": {
+    "id": "mouth-dango-2",
+    "name": "Tiny Turtle+",
+    "clazz": "reptile",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "aquatic_mouth_10_3_0": {
+    "id": "mouth-geisha",
+    "name": "Piranha",
+    "clazz": "aquatic",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "aquatic_mouth_10_3_1": {
+    "id": "mouth-geisha-2",
+    "name": "Piranha+",
+    "clazz": "aquatic",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "bug_mouth_08_3_0": {
+    "id": "mouth-kawaii",
+    "name": "Cute Bunny",
+    "clazz": "bug",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "bug_mouth_08_3_1": {
+    "id": "mouth-kawaii-2",
+    "name": "Cute Bunny+",
+    "clazz": "bug",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "plant_mouth_04_4_0": {
+    "id": "mouth-rudolph",
+    "name": "Zigzag",
+    "clazz": "plant",
+    "specialGenes": "xmas-2018",
+    "partSkin": 4
+  },
+  "plant_mouth_04_4_1": {
+    "id": "mouth-rudolph-2",
+    "name": "Zigzag+",
+    "clazz": "plant",
+    "specialGenes": "xmas-2018",
+    "partSkin": 4
+  },
+  "reptile_mouth_10_5_0": {
+    "id": "mouth-tiny-carrot",
+    "name": "Tiny Turtle",
+    "clazz": "reptile",
+    "specialGenes": "xmas-2019",
+    "partSkin": 5
+  },
+  "reptile_mouth_10_5_1": {
+    "id": "mouth-tiny-carrot-2",
+    "name": "Tiny Turtle+",
+    "clazz": "reptile",
+    "specialGenes": "xmas-2019",
+    "partSkin": 5
+  },
+  "aquatic_mouth_08_6_0": {
+    "id": "mouth-bubble-fish",
+    "name": "Risky Fish",
+    "clazz": "aquatic",
+    "specialGenes": "summer-2022",
+    "partSkin": 6
+  },
+  "aquatic_mouth_08_6_1": {
+    "id": "mouth-bubble-fish-2",
+    "name": "Risky Fish+",
+    "clazz": "aquatic",
+    "specialGenes": "summer-2022",
+    "partSkin": 6
+  },
+  "aquatic_back_10_0_0": {
+    "id": "back-anemone",
+    "name": "Anemone",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_back_10_0_1": {
+    "id": "back-anemone-2",
+    "name": "Anemone+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_back_02_0_0": {
+    "id": "back-balloon",
+    "name": "Balloon",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_back_02_0_1": {
+    "id": "back-balloon-2",
+    "name": "Balloon+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_back_06_0_0": {
+    "id": "back-bidens",
+    "name": "Bidens",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_back_06_0_1": {
+    "id": "back-bidens-2",
+    "name": "Bidens+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_back_04_0_0": {
+    "id": "back-blue-moon",
+    "name": "Blue Moon",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_back_04_0_1": {
+    "id": "back-blue-moon-2",
+    "name": "Blue Moon+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_back_02_0_0": {
+    "id": "back-bone-sail",
+    "name": "Bone Sail",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_back_02_0_1": {
+    "id": "back-bone-sail-2",
+    "name": "Bone Sail+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_back_06_0_0": {
+    "id": "back-buzz-buzz",
+    "name": "Buzz Buzz",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_back_06_0_1": {
+    "id": "back-buzz-buzz-2",
+    "name": "Buzz Buzz+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_back_12_0_0": {
+    "id": "back-croc",
+    "name": "Croc",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_back_12_0_1": {
+    "id": "back-croc-2",
+    "name": "Croc+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_back_04_0_0": {
+    "id": "back-cupid",
+    "name": "Cupid",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_back_04_0_1": {
+    "id": "back-cupid-2",
+    "name": "Cupid+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_back_12_0_0": {
+    "id": "back-furball",
+    "name": "Furball",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_back_12_0_1": {
+    "id": "back-furball-2",
+    "name": "Furball+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_back_04_0_0": {
+    "id": "back-garish-worm",
+    "name": "Garish Worm",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_back_04_0_1": {
+    "id": "back-garish-worm-2",
+    "name": "Garish Worm+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_back_06_0_0": {
+    "id": "back-goldfish",
+    "name": "Goldfish",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_back_06_0_1": {
+    "id": "back-goldfish-2",
+    "name": "Goldfish+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_back_06_0_0": {
+    "id": "back-green-thorns",
+    "name": "Green Thorns",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_back_06_0_1": {
+    "id": "back-green-thorns-2",
+    "name": "Green Thorns+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_back_02_0_0": {
+    "id": "back-hermit",
+    "name": "Hermit",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_back_02_0_1": {
+    "id": "back-hermit-2",
+    "name": "Hermit+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_back_04_0_0": {
+    "id": "back-hero",
+    "name": "Hero",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_back_04_0_1": {
+    "id": "back-hero-2",
+    "name": "Hero+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_back_08_0_0": {
+    "id": "back-indian-star",
+    "name": "Indian Star",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_back_08_0_1": {
+    "id": "back-indian-star-2",
+    "name": "Indian Star+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_back_06_0_0": {
+    "id": "back-jaguar",
+    "name": "Jaguar",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_back_06_0_1": {
+    "id": "back-jaguar-2",
+    "name": "Jaguar+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_back_10_0_0": {
+    "id": "back-kingfisher",
+    "name": "Kingfisher",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_back_10_0_1": {
+    "id": "back-kingfisher-2",
+    "name": "Kingfisher+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_back_10_0_0": {
+    "id": "back-mint",
+    "name": "Mint",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_back_10_0_1": {
+    "id": "back-mint-2",
+    "name": "Mint+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_back_12_0_0": {
+    "id": "back-perch",
+    "name": "Perch",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_back_12_0_1": {
+    "id": "back-perch-2",
+    "name": "Perch+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_back_08_0_0": {
+    "id": "back-pigeon-post",
+    "name": "Pigeon Post",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_back_08_0_1": {
+    "id": "back-pigeon-post-2",
+    "name": "Pigeon Post+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_back_12_0_0": {
+    "id": "back-pumpkin",
+    "name": "Pumpkin",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_back_12_0_1": {
+    "id": "back-pumpkin-2",
+    "name": "Pumpkin+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_back_06_0_0": {
+    "id": "back-raven",
+    "name": "Raven",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_back_06_0_1": {
+    "id": "back-raven-2",
+    "name": "Raven+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_back_10_0_0": {
+    "id": "back-red-ear",
+    "name": "Red Ear",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_back_10_0_1": {
+    "id": "back-red-ear-2",
+    "name": "Red Ear+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_back_08_0_0": {
+    "id": "back-risky-beast",
+    "name": "Risky Beast",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_back_08_0_1": {
+    "id": "back-risky-beast-2",
+    "name": "Risky Beast+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_back_02_0_0": {
+    "id": "back-ronin",
+    "name": "Ronin",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_back_02_0_1": {
+    "id": "back-ronin-2",
+    "name": "Ronin+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_back_08_0_0": {
+    "id": "back-sandal",
+    "name": "Sandal",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_back_08_0_1": {
+    "id": "back-sandal-2",
+    "name": "Sandal+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_back_10_0_0": {
+    "id": "back-scarab",
+    "name": "Scarab",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_back_10_0_1": {
+    "id": "back-scarab-2",
+    "name": "Scarab+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_back_04_0_0": {
+    "id": "back-shiitake",
+    "name": "Shiitake",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_back_04_0_1": {
+    "id": "back-shiitake-2",
+    "name": "Shiitake+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_back_02_0_0": {
+    "id": "back-snail-shell",
+    "name": "Snail Shell",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_back_02_0_1": {
+    "id": "back-snail-shell-2",
+    "name": "Snail Shell+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_back_12_0_0": {
+    "id": "back-spiky-wing",
+    "name": "Spiky Wing",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_back_12_0_1": {
+    "id": "back-spiky-wing-2",
+    "name": "Spiky Wing+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_back_08_0_0": {
+    "id": "back-sponge",
+    "name": "Sponge",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_back_08_0_1": {
+    "id": "back-sponge-2",
+    "name": "Sponge+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_back_10_0_0": {
+    "id": "back-timber",
+    "name": "Timber",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_back_10_0_1": {
+    "id": "back-timber-2",
+    "name": "Timber+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_back_12_0_0": {
+    "id": "back-tri-feather",
+    "name": "Tri Feather",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_back_12_0_1": {
+    "id": "back-tri-feather-2",
+    "name": "Tri Feather+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_back_04_0_0": {
+    "id": "back-tri-spikes",
+    "name": "Tri Spikes",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_back_04_0_1": {
+    "id": "back-tri-spikes-2",
+    "name": "Tri Spikes+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_back_02_0_0": {
+    "id": "back-turnip",
+    "name": "Turnip",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_back_02_0_1": {
+    "id": "back-turnip-2",
+    "name": "Turnip+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_back_08_0_0": {
+    "id": "back-watering-can",
+    "name": "Watering Can",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_back_08_0_1": {
+    "id": "back-watering-can-2",
+    "name": "Watering Can+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_back_12_9_0": {
+    "id": "back-beach-ball-shiny",
+    "name": "Furball",
+    "clazz": "beast",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 9
+  },
+  "beast_back_12_9_1": {
+    "id": "back-beach-ball-shiny-2",
+    "name": "Furball+",
+    "clazz": "beast",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 9
+  },
+  "reptile_back_10_9_0": {
+    "id": "back-turtle-buoy-shiny",
+    "name": "Red Ear",
+    "clazz": "reptile",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 9
+  },
+  "reptile_back_10_9_1": {
+    "id": "back-turtle-buoy-shiny-2",
+    "name": "Red Ear+",
+    "clazz": "reptile",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 9
+  },
+  "aquatic_back_02_1_0": {
+    "id": "back-crystal-hermit",
+    "name": "Hermit",
+    "clazz": "aquatic",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "aquatic_back_02_1_1": {
+    "id": "back-crystal-hermit-2",
+    "name": "Hermit+",
+    "clazz": "aquatic",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "beast_back_02_1_0": {
+    "id": "back-hasagi",
+    "name": "Ronin",
+    "clazz": "beast",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "beast_back_02_1_1": {
+    "id": "back-hasagi-2",
+    "name": "Ronin+",
+    "clazz": "beast",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "plant_back_02_1_0": {
+    "id": "back-pink-turnip",
+    "name": "Turnip",
+    "clazz": "plant",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "plant_back_02_1_1": {
+    "id": "back-pink-turnip-2",
+    "name": "Turnip+",
+    "clazz": "plant",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "reptile_back_02_1_0": {
+    "id": "back-rugged-sail",
+    "name": "Bone Sail",
+    "clazz": "reptile",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "reptile_back_02_1_1": {
+    "id": "back-rugged-sail-2",
+    "name": "Bone Sail+",
+    "clazz": "reptile",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bird_back_02_1_0": {
+    "id": "back-starry-balloon",
+    "name": "Balloon",
+    "clazz": "bird",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bird_back_02_1_1": {
+    "id": "back-starry-balloon-2",
+    "name": "Balloon+",
+    "clazz": "bird",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bug_back_02_1_0": {
+    "id": "back-starry-shell",
+    "name": "Snail Shell",
+    "clazz": "bug",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bug_back_02_1_1": {
+    "id": "back-starry-shell-2",
+    "name": "Snail Shell+",
+    "clazz": "bug",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "beast_back_08_3_0": {
+    "id": "back-hamaya",
+    "name": "Risky Beast",
+    "clazz": "beast",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "beast_back_08_3_1": {
+    "id": "back-hamaya-2",
+    "name": "Risky Beast+",
+    "clazz": "beast",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "bird_back_04_3_0": {
+    "id": "back-origami",
+    "name": "Cupid",
+    "clazz": "bird",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "bird_back_04_3_1": {
+    "id": "back-origami-2",
+    "name": "Cupid+",
+    "clazz": "bird",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "plant_back_04_3_0": {
+    "id": "back-yakitori",
+    "name": "Shiitake",
+    "clazz": "plant",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "plant_back_04_3_1": {
+    "id": "back-yakitori-2",
+    "name": "Shiitake+",
+    "clazz": "plant",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "bug_back_04_4_0": {
+    "id": "back-candy-canes",
+    "name": "Garish Worm",
+    "clazz": "bug",
+    "specialGenes": "xmas-2018",
+    "partSkin": 4
+  },
+  "bug_back_04_4_1": {
+    "id": "back-candy-canes-2",
+    "name": "Garish Worm+",
+    "clazz": "bug",
+    "specialGenes": "xmas-2018",
+    "partSkin": 4
+  },
+  "reptile_back_08_5_0": {
+    "id": "back-frozen-bucket",
+    "name": "Indian Star",
+    "clazz": "reptile",
+    "specialGenes": "xmas-2019",
+    "partSkin": 5
+  },
+  "reptile_back_08_5_1": {
+    "id": "back-frozen-bucket-2",
+    "name": "Indian Star+",
+    "clazz": "reptile",
+    "specialGenes": "xmas-2019",
+    "partSkin": 5
+  },
+  "beast_back_12_6_0": {
+    "id": "back-beach-ball",
+    "name": "Furball",
+    "clazz": "beast",
+    "specialGenes": "summer-2022",
+    "partSkin": 6
+  },
+  "beast_back_12_6_1": {
+    "id": "back-beach-ball-2",
+    "name": "Furball+",
+    "clazz": "beast",
+    "specialGenes": "summer-2022",
+    "partSkin": 6
+  },
+  "reptile_back_10_6_0": {
+    "id": "back-turtle-buoy",
+    "name": "Red Ear",
+    "clazz": "reptile",
+    "specialGenes": "summer-2022",
+    "partSkin": 6
+  },
+  "reptile_back_10_6_1": {
+    "id": "back-turtle-buoy-2",
+    "name": "Red Ear+",
+    "clazz": "reptile",
+    "specialGenes": "summer-2022",
+    "partSkin": 6
+  },
+  "reptile_back_08_2_0": {
+    "id": "back-1nd14n-5t4r",
+    "name": "Indian Star",
+    "clazz": "reptile",
+    "specialGenes": "bionic",
+    "partSkin": 2
+  },
+  "reptile_back_08_2_1": {
+    "id": "back-1nd14n-5t4r-2",
+    "name": "Indian Star+",
+    "clazz": "reptile",
+    "specialGenes": "bionic",
+    "partSkin": 2
+  },
+  "bug_tail_02_0_0": {
+    "id": "tail-ant",
+    "name": "Ant",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_tail_02_0_1": {
+    "id": "tail-ant-2",
+    "name": "Ant+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_tail_02_0_0": {
+    "id": "tail-carrot",
+    "name": "Carrot",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_tail_02_0_1": {
+    "id": "tail-carrot-2",
+    "name": "Carrot+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_tail_04_0_0": {
+    "id": "tail-cattail",
+    "name": "Cattail",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_tail_04_0_1": {
+    "id": "tail-cattail-2",
+    "name": "Cattail+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_tail_08_0_0": {
+    "id": "tail-cloud",
+    "name": "Cloud",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_tail_08_0_1": {
+    "id": "tail-cloud-2",
+    "name": "Cloud+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_tail_02_0_0": {
+    "id": "tail-cottontail",
+    "name": "Cottontail",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_tail_02_0_1": {
+    "id": "tail-cottontail-2",
+    "name": "Cottontail+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_tail_04_0_0": {
+    "id": "tail-feather-fan",
+    "name": "Feather Fan",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_tail_04_0_1": {
+    "id": "tail-feather-fan-2",
+    "name": "Feather Fan+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_tail_06_0_0": {
+    "id": "tail-fish-snack",
+    "name": "Fish Snack",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_tail_06_0_1": {
+    "id": "tail-fish-snack-2",
+    "name": "Fish Snack+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_tail_12_0_0": {
+    "id": "tail-gerbil",
+    "name": "Gerbil",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_tail_12_0_1": {
+    "id": "tail-gerbil-2",
+    "name": "Gerbil+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_tail_10_0_0": {
+    "id": "tail-gila",
+    "name": "Gila",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_tail_10_0_1": {
+    "id": "tail-gila-2",
+    "name": "Gila+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_tail_10_0_0": {
+    "id": "tail-granmas-fan",
+    "name": "Granma's Fan",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_tail_10_0_1": {
+    "id": "tail-granmas-fan-2",
+    "name": "Granma's Fan+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_tail_12_0_0": {
+    "id": "tail-grass-snake",
+    "name": "Grass Snake",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_tail_12_0_1": {
+    "id": "tail-grass-snake-2",
+    "name": "Grass Snake+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_tail_08_0_0": {
+    "id": "tail-gravel-ant",
+    "name": "Gravel Ant",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_tail_08_0_1": {
+    "id": "tail-gravel-ant-2",
+    "name": "Gravel Ant+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_tail_08_0_0": {
+    "id": "tail-hare",
+    "name": "Hare",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_tail_08_0_1": {
+    "id": "tail-hare-2",
+    "name": "Hare+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_tail_06_0_0": {
+    "id": "tail-hatsune",
+    "name": "Hatsune",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_tail_06_0_1": {
+    "id": "tail-hatsune-2",
+    "name": "Hatsune+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_tail_12_0_0": {
+    "id": "tail-hot-butt",
+    "name": "Hot Butt",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_tail_12_0_1": {
+    "id": "tail-hot-butt-2",
+    "name": "Hot Butt+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_tail_04_0_0": {
+    "id": "tail-iguana",
+    "name": "Iguana",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_tail_04_0_1": {
+    "id": "tail-iguana-2",
+    "name": "Iguana+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_tail_02_0_0": {
+    "id": "tail-koi",
+    "name": "Koi",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_tail_02_0_1": {
+    "id": "tail-koi-2",
+    "name": "Koi+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_tail_10_0_0": {
+    "id": "tail-navaga",
+    "name": "Navaga",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_tail_10_0_1": {
+    "id": "tail-navaga-2",
+    "name": "Navaga+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_tail_04_0_0": {
+    "id": "tail-nimo",
+    "name": "Nimo",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_tail_04_0_1": {
+    "id": "tail-nimo-2",
+    "name": "Nimo+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_tail_10_0_0": {
+    "id": "tail-nut-cracker",
+    "name": "Nut Cracker",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_tail_10_0_1": {
+    "id": "tail-nut-cracker-2",
+    "name": "Nut Cracker+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_tail_12_0_0": {
+    "id": "tail-post-fight",
+    "name": "Post Fight",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_tail_12_0_1": {
+    "id": "tail-post-fight-2",
+    "name": "Post Fight+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_tail_10_0_0": {
+    "id": "tail-potato-leaf",
+    "name": "Potato Leaf",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_tail_10_0_1": {
+    "id": "tail-potato-leaf-2",
+    "name": "Potato Leaf+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_tail_10_0_0": {
+    "id": "tail-pupae",
+    "name": "Pupae",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_tail_10_0_1": {
+    "id": "tail-pupae-2",
+    "name": "Pupae+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_tail_08_0_0": {
+    "id": "tail-ranchu",
+    "name": "Ranchu",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_tail_08_0_1": {
+    "id": "tail-ranchu-2",
+    "name": "Ranchu+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_tail_04_0_0": {
+    "id": "tail-rice",
+    "name": "Rice",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_tail_04_0_1": {
+    "id": "tail-rice-2",
+    "name": "Rice+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_tail_06_0_0": {
+    "id": "tail-shiba",
+    "name": "Shiba",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_tail_06_0_1": {
+    "id": "tail-shiba-2",
+    "name": "Shiba+",
+    "clazz": "beast",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_tail_12_0_0": {
+    "id": "tail-shrimp",
+    "name": "Shrimp",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_tail_12_0_1": {
+    "id": "tail-shrimp-2",
+    "name": "Shrimp+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_tail_08_0_0": {
+    "id": "tail-snake-jar",
+    "name": "Snake Jar",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_tail_08_0_1": {
+    "id": "tail-snake-jar-2",
+    "name": "Snake Jar+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_tail_02_0_0": {
+    "id": "tail-swallow",
+    "name": "Swallow",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_tail_02_0_1": {
+    "id": "tail-swallow-2",
+    "name": "Swallow+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_tail_06_0_0": {
+    "id": "tail-tadpole",
+    "name": "Tadpole",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "aquatic_tail_06_0_1": {
+    "id": "tail-tadpole-2",
+    "name": "Tadpole+",
+    "clazz": "aquatic",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_tail_06_0_0": {
+    "id": "tail-the-last-one",
+    "name": "The Last One",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bird_tail_06_0_1": {
+    "id": "tail-the-last-one-2",
+    "name": "The Last One+",
+    "clazz": "bird",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_tail_12_0_0": {
+    "id": "tail-thorny-caterpillar",
+    "name": "Thorny Caterpillar",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_tail_12_0_1": {
+    "id": "tail-thorny-caterpillar-2",
+    "name": "Thorny Caterpillar+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_tail_06_0_0": {
+    "id": "tail-tiny-dino",
+    "name": "Tiny Dino",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_tail_06_0_1": {
+    "id": "tail-tiny-dino-2",
+    "name": "Tiny Dino+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_tail_04_0_0": {
+    "id": "tail-twin-tail",
+    "name": "Twin Tail",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "bug_tail_04_0_1": {
+    "id": "tail-twin-tail-2",
+    "name": "Twin Tail+",
+    "clazz": "bug",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_tail_02_0_0": {
+    "id": "tail-wall-gecko",
+    "name": "Wall Gecko",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "reptile_tail_02_0_1": {
+    "id": "tail-wall-gecko-2",
+    "name": "Wall Gecko+",
+    "clazz": "reptile",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_tail_08_0_0": {
+    "id": "tail-yam",
+    "name": "Yam",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "plant_tail_08_0_1": {
+    "id": "tail-yam-2",
+    "name": "Yam+",
+    "clazz": "plant",
+    "specialGenes": "",
+    "partSkin": 0
+  },
+  "beast_tail_02_9_0": {
+    "id": "tail-cotton-candy-shiny",
+    "name": "Cottontail",
+    "clazz": "beast",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 9
+  },
+  "beast_tail_02_9_1": {
+    "id": "tail-cotton-candy-shiny-2",
+    "name": "Cottontail+",
+    "clazz": "beast",
+    "specialGenes": "summer-2022-shiny",
+    "partSkin": 9
+  },
+  "reptile_tail_02_1_0": {
+    "id": "tail-escaped-gecko",
+    "name": "Wall Gecko",
+    "clazz": "reptile",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "reptile_tail_02_1_1": {
+    "id": "tail-escaped-gecko-2",
+    "name": "Wall Gecko+",
+    "clazz": "reptile",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bug_tail_02_1_0": {
+    "id": "tail-fire-ant",
+    "name": "Ant",
+    "clazz": "bug",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bug_tail_02_1_1": {
+    "id": "tail-fire-ant-2",
+    "name": "Ant+",
+    "clazz": "bug",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "aquatic_tail_02_1_0": {
+    "id": "tail-kuro-koi",
+    "name": "Koi",
+    "clazz": "aquatic",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "aquatic_tail_02_1_1": {
+    "id": "tail-kuro-koi-2",
+    "name": "Koi+",
+    "clazz": "aquatic",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "plant_tail_02_1_0": {
+    "id": "tail-namek-carrot",
+    "name": "Carrot",
+    "clazz": "plant",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "plant_tail_02_1_1": {
+    "id": "tail-namek-carrot-2",
+    "name": "Carrot+",
+    "clazz": "plant",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "beast_tail_02_1_0": {
+    "id": "tail-sakura-cottontail",
+    "name": "Cottontail",
+    "clazz": "beast",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "beast_tail_02_1_1": {
+    "id": "tail-sakura-cottontail-2",
+    "name": "Cottontail+",
+    "clazz": "beast",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bird_tail_02_1_0": {
+    "id": "tail-snowy-swallow",
+    "name": "Swallow",
+    "clazz": "bird",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "bird_tail_02_1_1": {
+    "id": "tail-snowy-swallow-2",
+    "name": "Swallow+",
+    "clazz": "bird",
+    "specialGenes": "mystic",
+    "partSkin": 1
+  },
+  "aquatic_tail_02_3_0": {
+    "id": "tail-koinobori",
+    "name": "Koi",
+    "clazz": "aquatic",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "aquatic_tail_02_3_1": {
+    "id": "tail-koinobori-2",
+    "name": "Koi+",
+    "clazz": "aquatic",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "bug_tail_06_3_0": {
+    "id": "tail-maki",
+    "name": "Fish Snack",
+    "clazz": "bug",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "bug_tail_06_3_1": {
+    "id": "tail-maki-2",
+    "name": "Fish Snack+",
+    "clazz": "bug",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "bird_tail_10_3_0": {
+    "id": "tail-omatsuri",
+    "name": "Granma's Fan",
+    "clazz": "bird",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "bird_tail_10_3_1": {
+    "id": "tail-omatsuri-2",
+    "name": "Granma's Fan+",
+    "clazz": "bird",
+    "specialGenes": "japan",
+    "partSkin": 3
+  },
+  "reptile_tail_08_4_0": {
+    "id": "tail-december-surprise",
+    "name": "Snake Jar",
+    "clazz": "reptile",
+    "specialGenes": "xmas-2018",
+    "partSkin": 4
+  },
+  "reptile_tail_08_4_1": {
+    "id": "tail-december-surprise-2",
+    "name": "Snake Jar+",
+    "clazz": "reptile",
+    "specialGenes": "xmas-2018",
+    "partSkin": 4
+  },
+  "reptile_tail_06_5_0": {
+    "id": "tail-fir-trunk",
+    "name": "Tiny Dino",
+    "clazz": "reptile",
+    "specialGenes": "xmas-2019",
+    "partSkin": 5
+  },
+  "reptile_tail_06_5_1": {
+    "id": "tail-fir-trunk-2",
+    "name": "Tiny Dino+",
+    "clazz": "reptile",
+    "specialGenes": "xmas-2019",
+    "partSkin": 5
+  },
+  "beast_tail_02_6_0": {
+    "id": "tail-cotton-candy",
+    "name": "Cottontail",
+    "clazz": "beast",
+    "specialGenes": "summer-2022",
+    "partSkin": 6
+  },
+  "beast_tail_02_6_1": {
+    "id": "tail-cotton-candy-2",
+    "name": "Cottontail+",
+    "clazz": "beast",
+    "specialGenes": "summer-2022",
+    "partSkin": 6
+  }
+}

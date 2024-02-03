@@ -10,3 +10,6 @@ export const binBodySkin = new Map([
   ['0001', BodySkin.Frosty],
   ['0010', BodySkin.Wavy]
 ]);
+export const BodyShape : { }= {
+
+};
