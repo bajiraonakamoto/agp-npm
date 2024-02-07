@@ -1,6 +1,5 @@
 /** Represents the special skin of an Axie's body. This can either be none (default), Frosty or Wavy. */
-import { BodyGeneBin, GeneBin, Heritage } from './GeneBin';
-import { GetClass } from './models/cls2';
+import { GeneBin, Heritage } from './GeneBin';
 
 export interface Body {
   heritability: string;
@@ -10,8 +9,6 @@ export interface Body {
 }
 
 export function GetBody(genBin: GeneBin): Body {
-  const cls = GetClass(genBin)
-
   return {
     shape: {
       d: GetBodyShape(genBin.body.shape.d),

@@ -8,7 +8,7 @@ import { GeneBuilder } from './GeneBuilder';
 import traitsJson = require('./assets/traits.json');
 import partsJson = require('./assets/parts.json');
 import { Body } from './Body';
-import { Cls } from './models/cls2';
+import { Clazz } from './Clazz';
 
 
 /**
@@ -57,7 +57,7 @@ export class Axie {
    * Getter for the class of the Axie.
    * @returns Class of the Axie.
    */
-  get cls(): Cls {
+  get cls(): Clazz {
     return this._genes.cls;
   }
 
@@ -379,13 +379,13 @@ export class Axie {
    * @param bin binary representation of an Axie's body part.
    * @returns Cls class of the Axie's body part.
    */
-  private parsePartClass(bin: string): Cls {
+  private parsePartClass(bin: string): Clazz {
     // const ret = binClassMap.get(bin);
     // if (ret === undefined) {
     //   throw new Error('cannot recognize part class');
     // }
     // return ret;
-    return Cls.UNKNOWN
+    return Clazz.UNKNOWN
   }
 
   /**
@@ -399,7 +399,7 @@ export class Axie {
    * @returns Cls class of the Axie.
    */
   private parsePartName(
-    cls: Cls,
+    cls: Clazz,
     partType: PartType,
     regionBin: string,
     partBin: string,
