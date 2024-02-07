@@ -1,7 +1,6 @@
 import { GeneBinGroup } from './models/internal/gene-bin-group';
 import { Part, PartGene, PartSkin, PartType } from './models/part';
 import { ColorGene } from './models/color';
-import { binClassMap, Cls } from './models/cls';
 import { PatternGene } from './models/pattern';
 import { Gene2 } from './Gene2';
 import { GeneBin, ParseGeneBinFromGenHex } from './GeneBin';
@@ -9,6 +8,7 @@ import { GeneBuilder } from './GeneBuilder';
 import traitsJson = require('./assets/traits.json');
 import partsJson = require('./assets/parts.json');
 import { Body } from './Body';
+import { Cls } from './models/cls2';
 
 
 /**
@@ -380,11 +380,12 @@ export class Axie {
    * @returns Cls class of the Axie's body part.
    */
   private parsePartClass(bin: string): Cls {
-    const ret = binClassMap.get(bin);
-    if (ret === undefined) {
-      throw new Error('cannot recognize part class');
-    }
-    return ret;
+    // const ret = binClassMap.get(bin);
+    // if (ret === undefined) {
+    //   throw new Error('cannot recognize part class');
+    // }
+    // return ret;
+    return Cls.UNKNOWN
   }
 
   /**

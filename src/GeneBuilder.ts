@@ -7,7 +7,7 @@ import { GetBody } from './Body';
 export function GeneBuilder(geneBin: GeneBin): Gene2 {
   return {
     cls: BinClassMap[geneBin.cls],
-    body : GetBody(geneBin.body)
+    body : GetBody(geneBin),
   } as Gene2;
 }
 

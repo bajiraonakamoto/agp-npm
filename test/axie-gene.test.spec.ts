@@ -1,9 +1,9 @@
 import { AxieGene } from '../src/axie-gene';
 import { Cls } from '../src/models/cls';
-import { BodySkin } from '../src/Body';
 import { Region } from '../src/models/region';
 import { Tag } from '../src/models/tag';
 import { PartType } from '../src/models/part';
+import { BodySkin } from '../src/models/bodySkin';
 
 describe('AxieGene_Global', () => {
   const axieGene = new AxieGene('0x11c642400a028ca14a428c20cc011080c61180a0820180604233082');

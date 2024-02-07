@@ -5,4 +5,5 @@ import { Body } from './Body';
 export interface Gene2 {
   cls: Cls;
   body : Body;
+
 }
